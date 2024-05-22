@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DestinEcarma/DestinEcarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="./images/banner.png">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- I am currently studying in **BS Computer Science** in **University of San Carlos**.
+- I am interested in **Inteleget Systems**, **Data Science** and **Chess Programming**
+- I love writing in `Rust`, and building applications using `Rust`.
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,lua,c,py,cs,kotlin,java)](https://skillicons.dev)
+
+</div>
+<div align="center">
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/destinecarma">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destinecarma&text_bold=true&rank_icon=github&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/destinecarma">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=destinecarma&text_bold=true&layout=donut&langs_count=5&theme=github_dark_dimmed" />
+  </a>
+</div>

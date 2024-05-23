@@ -7,7 +7,7 @@
 ## About me
 
 - I am currently studying in **BS Computer Science** in **University of San Carlos**.
-- I am interested in **Intelligent Systems**, **Data Science** and **Chess Programming**
+- I am interested in **Intelligent Systems**, **Data Science** and **Chess Programming**.
 - I love writing in `Rust`, and building applications using `Rust`.
 
 <div align="center">

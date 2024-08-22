@@ -27,3 +27,11 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=destinecarma&text_bold=true&layout=donut&langs_count=5&theme=github_dark_dimmed" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=DestinEcarma">
+    <img src="https://komarev.com/ghpvc/?username=DestinEcarma&color=blue&style=for-the-badge">
+  </a>
+</div>

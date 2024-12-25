@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,lua,c,py,php,cs,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,lua,c,cpp,py,php,cs,kotlin,java)](https://skillicons.dev)
 
 </div>
 <div align="center">
@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/destinecarma">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destinecarma&text_bold=true&rank_icon=github&theme=github_dark_dimmed" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=destinecarma&text_bold=true&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/destinecarma">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=destinecarma&text_bold=true&layout=donut&langs_count=5&theme=github_dark_dimmed" />

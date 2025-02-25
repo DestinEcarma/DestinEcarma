@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,lua,c,cpp,py,php,cs,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,ts,js,lua,c,cpp,py,assembly,php,cs,kotlin,java)](https://skillicons.dev)
 
 </div>
 <div align="center">
